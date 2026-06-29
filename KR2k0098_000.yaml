@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0098/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十一
+  hash: sha256:5f8ab01fbfc809cc911a707e5aa22577e1ed198056f701795ddffcd84b7bc12f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0098_WYG_000-1a, image: WYG0588/WYG0588-0001a.png}
+body:
+  text: 武林梵志地理類七古蹟之屬提要臣等謹案武林梵志十二卷明吳之鯨撰之鯨字伯裔錢塘人與吳大山稱江皋二俊萬厯中舉於鄉數上春官不第謁選得浮梁知縣卒於官是編以杭州梵剎盛於南宋至明而殘廢者多恐遺蹟漸湮乃博考乘牒分城內城外南山北山及諸屬縣凡得寺院四百二十六所俱詳志創置始末及其山川形勝後為天朝寵錫宰官護持古德機緣厯代勳績四門分紀名流勝蹟髙僧支派各編小傳序録井然頗有條理其中採輯宋元人詩文如仙林崇先二寺記見曹勛松隱集智果寺記見徐一蘷始興集而志俱失載不免稍有漏脫又如宋張敦禮捨鐘者非杭之法雲寺而以名同誤入又撰法相寺碑記者前作范楷後作沈楷亦為參錯失檢然搜剔幽隱無微不至實多武林舊事西湖逰覽志所未載如明逺堂詩次於蘇軾諸作之後而東坡集無之張九成喻彌陀塔銘亦不見於橫浦集張伯雨天池樓詩與本集互異可以參考遺文軼事俱足為談藝之資正不徒為伽藍增故實也乾隆四十五年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:7a3f464881906353c1668dbebf3db6d154beb1a6feb98d50aca60800885e90ae
+metadata:
+  title: 武林梵志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:45:25.937663'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2k0098/KR2k0098_000.txt
+hash: sha256:bfe0b275737128a00b81f77febf6905dcfdba6f6f702873157da4fcc10b1f658
